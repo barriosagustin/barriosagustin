@@ -1,10 +1,10 @@
 # Hi 👋 My name is Agustin Barrios
 
 ## I'm a software developer.
-I've been learning code for 2 years. Started with HTML, CSS and JavaScript. I'm currently working with Angular, c#, sql, .NET
+I've been learning code for 2 years. Started with HTML, CSS and JavaScript. I'm currently working as a Front end developer using Angular.
 
 
-* 🌍  I'm based in Argentina
+* 🌍  I'm based in Italy 🇮🇹
 * 🖥️  See my portfolio at [My portfolio](https://agustinbarriosweb.com/).
 * ✉️  You can contact me at agusab2000@gmail.com
 * 🧠  I'm learning something new everyday
