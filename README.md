@@ -1,8 +1,7 @@
 # Hi 👋 My name is Agustin Barrios
 
 ## I'm a software developer.
-I've been learning code for 2 years. Started with HTML, CSS and JavaScript. I'm currently working as a Front end developer using Angular.
-
+I've been in the software game for over three years now, rocking it as a frontend developer mainly with Angular, Angular Material, Bootstrap, and RxJS. I've also dabbled in backend work, handling C# and juggling databases like SQL Server and MongoDB.
 
 * 🌍  I'm based in Italy 🇮🇹
 * 🖥️  See my portfolio at [My portfolio](https://agustinbarriosweb.com/).
@@ -17,5 +16,6 @@ I've been learning code for 2 years. Started with HTML, CSS and JavaScript. I'm 
 ![file_type_mongo_icon_130383](https://user-images.githubusercontent.com/107374228/214454693-5e0434de-6df1-43e3-8a04-8f62502b9f84.png)
 ![csharp_original_logo_icon_146578](https://user-images.githubusercontent.com/107374228/214454789-091179e7-a7bd-407a-bcf4-989dec323faa.png)
 ![angular_logo_icon_169595](https://user-images.githubusercontent.com/107374228/214454850-5472e6e1-d48b-4151-9473-b10c5e374abb.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="TypeScript Logo" width="70" />
 
 
