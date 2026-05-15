@@ -1,7 +1,7 @@
 # Hi 👋 My name is Agustin Barrios
 
 ## I'm a software developer.
-I've been in the software game for over three years now, rocking it as a frontend developer mainly with Angular, Angular Material, Bootstrap, and RxJS. I've also dabbled in backend work, handling C# and juggling databases like SQL Server and MongoDB.
+I've been in the software game for over four years now, rocking it as a frontend developer mainly with Angular, Angular Material, Bootstrap, and RxJS. I've also dabbled in backend work, handling C# and juggling databases like SQL Server and MongoDB.
 
 * 🌍  I'm based in Italy 🇮🇹
 * 🖥️  See my portfolio at [My portfolio](https://agustinbarriosweb.com/).
